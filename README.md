@@ -11,6 +11,6 @@ Edit app.js math.random() parameter if you want to display different number of i
 
 To deploy this to your GCP project.
 1. Signon your GCP account.
-2. git clone https://github.com/nelsonchui/demo_appengine
+2. git clone https://github.com/nelsonchui/demo_appengine.git
 3. cd demo_appengine
 4. gcloud app deploy
