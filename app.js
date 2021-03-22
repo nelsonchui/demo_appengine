@@ -5,7 +5,7 @@ app.use(express.static('public'));
 app.get('/', function (req, res) {
 
     // generate a random number (0-1)   
-    var i = Math.floor(Math.random() * (5))
+    var i = Math.floor(Math.random() * (2))    // when set to 2: display sun and moon only, when set to 5: display all the 5 images.
         console.log("random i = " + i);
     var fn = "";
 
