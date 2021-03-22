@@ -7,6 +7,8 @@ Web app source : app.js (my version will randomly display image of sun/moon/star
 Images folder : ./image/*.jpg (5 image files)
 Deployment yaml : app.yaml
 
+Edit app.js math.random() parameter if you want to display different number of images.
+
 To deploy this to your GCP project.
 1. Signon your GCP account.
 2. git clone https://github.com/nelsonchui/demo_appengine
