@@ -7,7 +7,7 @@
     "email": "nelson.ckchui@gmail.com"},
   "repository": {
     "type": "git",
-    "url": "https://github.com/nelsonchui/demo_appengie.git"
+    "url": "https://github.com/nelsonchui/demo_appengine.git"
   },
   "main": "app.js",
   "scripts": {
